@@ -1,0 +1,26 @@
+### source https://i.pinimg.com/736x/50/02/d8/5002d8b32ebb0cb34e43e1ec7911de5b--mad-libs-for-adults-mad-libs-for-kids.jpg
+
+
+print ("give me a verb ending in ing")
+verb1= input ()
+print ("give me an adjective")
+adjective1= input ()
+print ("give me an adjective")
+adjective2= input ()
+print ("give me an plural noun")
+pluralnoun1= input ()
+print ("give me an adjective")
+adjective3= input ()
+print ("give me a person in the room")
+personintheroom1= input ()
+print ("give me a plural noun")
+pluralnoun2= input ()
+print ("give me a place")
+place1= input ()
+print ("give me a celebrity")
+celebrity1= input ()
+print ("give me a noun")
+noun1= input ()
+print ("plural noun")
+pluralnoun2= input ()
+print adjective
